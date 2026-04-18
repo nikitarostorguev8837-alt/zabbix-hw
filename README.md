@@ -70,8 +70,8 @@ $ sudo systemctl enable zabbix-server zabbix-agent apache2
 tail -fn 100 /var/log/zabbix/zabbix_agentd.log
 
 `Скриншоты
-![Скрин1](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-1.png)`
-![Скрин2](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-2.png)`
+![Скрин1](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-1.png)
+![Скрин2](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-2.png)
 ![Скрин3](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-3.png)`
 
 
