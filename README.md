@@ -48,8 +48,8 @@ $ sudo systemctl enable zabbix-server zabbix-agent apache2
 
 ```
 
-`Скриншоты`
-`![Скриншот авторизации](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_1-1.png)`
+Скриншоты
+![Скриншот авторизации](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_1-1.png)
 
 
 ---
@@ -69,10 +69,10 @@ $ sudo systemctl enable zabbix-server zabbix-agent apache2
 логи смотрел командой:
 tail -fn 100 /var/log/zabbix/zabbix_agentd.log
 
-`Скриншоты`
-`![Скрин1](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-1.png)`
-`![Скрин2](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-2.png)`
-`![Скрин3](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-3.png)`
+Скриншоты
+![Скрин1](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-1.png)
+![Скрин2](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-2.png)
+![Скрин3](https://github.com/nikitarostorguev8837-alt/zabbix-hw/blob/main/img/task_2-3.png)
 
 
 ---
